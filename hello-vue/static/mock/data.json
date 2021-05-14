@@ -1,0 +1,20 @@
+{
+  "name": "JAVA",
+  "url": "http://www.baidu.com",
+  "page": 1,
+  "address": {
+    "street": "含光门",
+    "city": "陕西西安",
+    "country": "中国"
+  },
+  "links": [
+    {
+      "name": "bilibili",
+      "url": "http://space.bilibili.com"
+    },
+    {
+      "name": "JAVA",
+      "url": "http://www.JAVA.com"
+    }
+  ]
+}
